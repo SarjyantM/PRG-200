@@ -1,4 +1,4 @@
-print(" --- Foreign Remittance Convertor --- ")
+print(" --- NEA Electricity Unit Cost --- ")
 
 previous_reading = float(input("Enter previous meter reading (kWh): "))
 current_reading = float(input("Enter current meter reading (kWh): "))

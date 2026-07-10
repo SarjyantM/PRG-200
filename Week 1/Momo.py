@@ -1,4 +1,4 @@
-print(" --- MOMO SHOP PROFIT TRACKER --- ")
+print(" --- MoMo Profit Tracker --- ")
 
 cost_price = float(input("Enter cost price per plate (NPR): "))
 selling_price = float(input("Enter selling price per plate (NPR): "))

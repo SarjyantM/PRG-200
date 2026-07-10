@@ -12,6 +12,7 @@ for i in range(count):
         
         if choice == "1":
             print(f"Your balance is: Rs. {balance}")
+            # no break here — loop continues, will ask for PIN again
         elif choice == "2":
             amount = float(input("Enter amount to withdraw: "))
             if amount > balance:
@@ -19,7 +20,7 @@ for i in range(count):
             else:
                 balance -= amount
                 print(f"Collect cash. Remaining balance: Rs. {balance}")
-        break
+            break   # 👈 now break is inside the "withdraw" branch only
 
     else:
         print("Invalid pin")

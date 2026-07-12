@@ -1,4 +1,4 @@
-print(" --- ELECTRICITY BILL SUMMARY --- ")
+print(" --- Foreign Remittance Convertor --- ")
 
 USD = float(input("Enter amt sent in USD : "))
 exchange_rate = float(input("Enter exchange rate (1 USD = ? NPR) : "))

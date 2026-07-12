@@ -1,7 +1,7 @@
 storeName=[]
 meterUnit=[]
 numberOfStore=int(input("Enter number of stores:"))
-for i in range(numberOfStore+1):
+for i in range(numberOfStore):
     stName=input("Enter name of store:")
     storeName.append(stName)
     unit=float(input("Enter unit consumed: "))

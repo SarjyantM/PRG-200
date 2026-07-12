@@ -1,4 +1,4 @@
-print(" --- Foreign Remittance Convertor --- ")
+print(" --- NEA Electricity Unit Cost --- ")
 
 previous_reading = float(input("Enter previous meter reading (kWh): "))
 current_reading = float(input("Enter current meter reading (kWh): "))
@@ -17,4 +17,3 @@ print(f"Rate per Unit     : NPR {rate_per_unit:.2f}")
 print(f"Energy Cost       : NPR {energy_cost:.2f}")
 print(f"Service Charge    : NPR {service_charge:.2f}")
 print(f"Total Bill        : NPR {total_bill:.2f}")
- 

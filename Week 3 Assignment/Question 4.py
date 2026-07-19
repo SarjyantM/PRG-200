@@ -1,4 +1,4 @@
-#Password Strength Checker By Sarjyant (UPDATED)
+#Password Strength Checker By Sarjyant 
 
 known_weak_passwords = ["hello", "Hello123", "H3ll0@World", "12345678", "MyP@ss!"]
 

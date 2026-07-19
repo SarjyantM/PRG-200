@@ -17,4 +17,3 @@ print(f"Rate per Unit     : NPR {rate_per_unit:.2f}")
 print(f"Energy Cost       : NPR {energy_cost:.2f}")
 print(f"Service Charge    : NPR {service_charge:.2f}")
 print(f"Total Bill        : NPR {total_bill:.2f}")
- 

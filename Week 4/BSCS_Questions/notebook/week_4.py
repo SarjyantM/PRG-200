@@ -1,13 +1,12 @@
 # ============================================================
 # Bhatbhateni Sales Data Analysis
-# Beginner Level - Simple Step-by-Step Code
 # ============================================================
 
 # Step 1: Import libraries
 # pandas helps us work with tables (like Excel)
 # matplotlib helps us draw charts
-import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 
 print("Step 1: Libraries loaded!")
 
